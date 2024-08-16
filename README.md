@@ -1,3 +1,3 @@
-[README.pdf](https://github.com/Avayekta/EEG/files/9945517/README.pdf)
-# EEG
-Generating Synthetic EEG signals in Matlab environment
+Paper link: http://bit.ly/3M9CoGM
+Full access link for code: https://bit.ly/3YPsb9U
+https://youtu.be/iyl_M0Mxmqc
